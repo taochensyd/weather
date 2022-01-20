@@ -1,3 +1,11 @@
+#Weather App
+GitHub: https://github.com/taochensyd/weather
+API Data: Open Weather Map
+
+This weather app is developed using JavaScript and React Framework. Users can search weather in the search box and display current weather for that city in the middle. Fetch API was used to request the data which was provided by Open Weather Map.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
